@@ -1,0 +1,4 @@
+token=ODQ0MDI2ODkzNDg4NjE5NTMw.GeJGre.SAvX1JZb3HjOvD0z5_k8pNWQ5hl4N9JgEmT3Vo
+application_id=your application id
+autochangecustomstatus=True
+stream=True
